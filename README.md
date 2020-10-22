@@ -1,8 +1,4 @@
-# demixed Shared Component Analysis (dSCA)
-
 ![Example Results](https://github.com/yu-takagi/dSCA/blob/master/fig/image.png)
-*Examples of vector images produced by this generative model.*
-This repo contains the TensorFlow code for `sketch-rnn`, the recurrent neural network model described in [Teaching Machines to Draw](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html) and [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477).
 
 > Y Takagi<sup>*</sup>, SW Kennerley, J Hirayama<sup>+</sup>, LT Hunt<sup>+</sup><br>
 > **Demixed shared component analysis of neuralpopulation data from multiple brain areas**<br>
