@@ -10,11 +10,11 @@
 dSCA decomposes population activity into a few components, such that the shared components capture the maximum amount of shared information across brain regions while also depending on relevant task parameters. This yields interpretable components that express which variables are shared between different brain regions and when this information is shared across time. 
 
 
-![Example Results](https://github.com/yu-takagi/dSCA/blob/master/fig/image.png)
+![Overview](/fig/image.png)
 
 
 # Example Usage
-
+Before running dSCA, please download dPCA (demixed PCA) package from [here](https://github.com/machenslab/dPCA).
 Running `simulation.m` provides a simulation results and plotting the results.
 
 ### Support
